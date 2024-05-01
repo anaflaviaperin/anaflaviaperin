@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @anaflaviaperin
+- 🌱 I’m currently learning about machine learning algorithms and web development.
+- 💞️ I’m looking to collaborate on anything (really)
+- 📫 How to reach me: anaflavia_perin@hotmail.com
+- ⚡ Fact about me: Lover of art, classical music, reading, and tea in my spare time.
