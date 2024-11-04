@@ -3,7 +3,7 @@
 - 💞️ Estou aberta para colaborar em qualquer coisa (sério)
 - 📫 Como me encontrar: [E-mail](mailto:anaflavia_perin@hotmail.com), [LinkedIn](https://www.linkedin.com/in/anaflaviaperin/)
 - ⚡ Curiosidade sobre mim: Amante de arte, música clássica, leitura e café no meu tempo livre.
-
+#
 - 👋 Hi, I’m @anaflaviaperin
 - 🌱 I’m currently learning about machine learning algorithms, web and mobile development.
 - 💞️ I’m looking to collaborate on anything (really)
