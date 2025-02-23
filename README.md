@@ -1,11 +1,9 @@
 - 👋 Oi, eu sou a @anaflaviaperin
 - 🌱 Atualmente, estou aprendendo sobre algoritmos de machine learning, desenvolvimento web e mobile.
 - 💞️ Estou aberta para colaborar em qualquer coisa (sério)
-- 📫 Como me encontrar: [E-mail](mailto:anaflavia_perin@hotmail.com), [LinkedIn](https://www.linkedin.com/in/anaflaviaperin/)
+- 📫 Como me encontrar: [E-mail](mailto:anaflavia_perin@hotmail.com), [LinkedIn](https://www.linkedin.com/in/anaflaviaperin26/)
 - ⚡ Curiosidade sobre mim: Amante de arte, música clássica, leitura e café no meu tempo livre.
 #
-- 👋 Hi, I’m @anaflaviaperin
-- 🌱 I’m currently learning about machine learning algorithms, web and mobile development.
-- 💞️ I’m looking to collaborate on anything (really)
-- 📫 How to reach me: [E-mail](mailto:anaflavia_perin@hotmail.com), [LinkedIn](https://www.linkedin.com/in/anaflaviaperin/)
-- ⚡ Fact about me: Lover of art, classical music, reading, and coffee in my spare time.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaflaviaperin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
