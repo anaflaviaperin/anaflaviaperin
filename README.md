@@ -9,11 +9,13 @@
 
 ## 🚀 Em que estou trabalhando?
 
-- 🌾 **App de gerenciamento agrícola (TCC) - Projeto privado (ideia em fase de validação para futura comercialização)** 
-  Aplicativo Android nativo em **Kotlin**, com banco local via **SQLite** e  estruturado em camadas, com separação entre interface, lógica de negócio e persistência de dados. Suporte a **Google Maps**, navegação com **BottomNavigationView** e **NavigationDrawer** e seleção contextual de área/safra via *toolbar*. Sincronização offline e integração com APIs externas (clima, commodities).
-
 - 🛒 **Plataforma completa de e-commerce - Projeto com foco em lançamento comercial**  
 Site responsivo com **React.js** no front-end e **Spring Boot** no back-end. Desenvolvido sob demanda, permite o gerenciamento de produtos, estoque, pedidos e clientes por meio de um painel administrativo. Conta com carrinho de compras, login com JWT, integração com APIs de pagamento e entrega, envio automático de e-mails, domínio com HTTPS, deploy com **Docker**, banco de dados relacional e CI/CD com **GitHub Actions**.
 
 - 🧩 **Projeto full-stack de um portal de vídeos com arquitetura de microsserviços - Projeto-laboratório para explorar novas tecnologias**  
   Utiliza **Next.js** no front-end, **Django** no back-end (API e painel administrativo), **RabbitMQ** para comunicação assíncrona, **Golang** para processamento de mídia com FFmpeg e **Docker** para orquestração de containers.
+
+## 🚀 Projetos disponíveis
+
+- 🌾 **App de gerenciamento agrícola (TCC) - Projeto privado** 
+  Aplicativo Android nativo em **Kotlin**, com banco local via **SQLite** e  estruturado em camadas, com separação entre interface, lógica de negócio e persistência de dados. Suporte a **Google Maps**, navegação com **BottomNavigationView** e **NavigationDrawer** e seleção contextual de área/safra via *toolbar*. Sincronização offline e integração com APIs externas (clima, commodities).
